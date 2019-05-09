@@ -1,1 +1,2 @@
-# The default keymap for kbd67
+# How to make
+make kbdfans/kbd67/rev1:[reponame]:dfu
